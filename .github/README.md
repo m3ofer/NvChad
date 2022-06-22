@@ -18,7 +18,7 @@
      <img src="https://github.com/m3ofer/NvChad-v2/blob/main/assets/0.png" alt="Elementary" align="center">
     </center>
   <br>
-  <h1 align="center"><center>Nvchad</center></h1>
+  <h1 align="center"><center>NvChad</center></h1>
   <br>
 </div>
 
