@@ -1,4 +1,11 @@
-<h1 align="center">NvChad</h1>
+<div align="center">
+    <center align="center">
+     <img src="https://github.com/m3ofer/NvChad-v2/blob/main/assets/0.png" alt="Elementary" align="center">
+    </center>
+  <br>
+  <h1 align="center"><center>Nvchad-V2</center></h1>
+  <br>
+</div>
 
 <div align="center">
 	<a href="https://nvchad.github.io/">Home</a>
