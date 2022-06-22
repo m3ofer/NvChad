@@ -38,14 +38,14 @@
 
 
 ## Showcase
-
-<img src="https://github.com/NvChad/nvchad.github.io/blob/src/static/img/screenshots/dashboard.png">
+<img src="https://github.com/NvChad/nvchad.github.io/blob/src/static/img/screenshots/rxyhn1.png">
+	
 <img src="https://github.com/NvChad/nvchad.github.io/blob/src/static/img/screenshots/main2.png">
 
 ( Zoom in the screenshot )
 
 <img src="https://github.com/NvChad/nvchad.github.io/blob/src/static/img/screenshots/main.png"> 
-<img src="https://github.com/NvChad/nvchad.github.io/blob/src/static/img/screenshots/rxyhn1.png">
+<img src="https://github.com/NvChad/nvchad.github.io/blob/src/static/img/screenshots/dashboard.png">
 
 ## What is it?
 
